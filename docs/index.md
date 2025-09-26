@@ -32,7 +32,6 @@ The analysis uses publicly available datasets
 ---
 
 ## Data Sources
-## Data Sources
 
 - **[EPA Automotive Trends Report](https://www.epa.gov/automotive-trends/explore-automotive-trends-data)**  
   Annual data on CO₂ emissions, horsepower, vehicle weight, and fuel economy for U.S. cars and trucks.
@@ -59,18 +58,20 @@ The analysis uses publicly available datasets
 
 1. **Market Share Line Chart**  
  Title: “By 2024, light trucks dominate U.S. auto sales.”  
- X-axis: year, Y-axis: % of sales (cars vs trucks).  
+ X-axis: year, Y-axis: % of sales (cars vs trucks).
+<img width="778" height="502" alt="image" src="https://github.com/user-attachments/assets/577dfbd7-646a-4509-9898-ebf86e53cc10" />
 
-2. **CO₂ vs Horsepower Dual Axis**  
+
+3. **CO₂ vs Horsepower Dual Axis**  
  Title: “Bigger and stronger cars slowed U.S. emissions progress.”  
 
-3. **EV Adoption by Region**  
+4. **EV Adoption by Region**  
  Title: “U.S. lags Europe and China in EV adoption.”  
 
-4. **Fatalities per 100M VMT**  
+5. **Fatalities per 100M VMT**  
  Title: “U.S. road safety improved overall, but pedestrian risks remain.”  
 
-5. **Market Snapshot Cards**  
+6. **Market Snapshot Cards**  
  Registrations, VMT, annual sales pace.
 
 ---
