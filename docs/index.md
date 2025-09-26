@@ -1,5 +1,4 @@
-# Final Project · U.S. Auto Market Visualization (2000–2024)
-
+# Final Project · U.S. Auto Market Visualization  
 ## Executive Summary
 This project explores how U.S. consumer preferences in the automobile market have shifted over the past two decades, and what this means for emissions, safety, and global positioning.  
 The story is structured around four pillars:
@@ -89,15 +88,6 @@ As light truck sales surged post-2010, U.S. road fatalities per 100M miles rever
  Registrations, VMT, annual sales pace.
 
 ---
-
-## Data Dictionary
-- `share_ltrucks`: Share of light trucks in total U.S. light vehicle sales.  
-- `ev_share`: EV share of new car sales (2015–2024).  
-- `co2_gpm`: Sales-weighted CO₂ emissions, grams per mile (EPA).  
-- `hp`: Sales-weighted horsepower (EPA).  
-- `fatalities_rate`: Fatalities per 100M vehicle miles traveled.  
-- `registrations`: Total number of registered vehicles in the U.S.  
-- `vmt`: Vehicle miles traveled annually.  
 
 ---
 
