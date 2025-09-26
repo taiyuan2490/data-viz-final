@@ -46,5 +46,53 @@ _All sources are open/public domain or CC BY licensed. Data is reproducible and 
 ## Methods & Media
 - **Cleaning**: Python (pandas/numpy).  
 - **Visualization**: Vega-Lite JSON specs embedded into GitHub Pages.  
-- **Structure**:
+
+- **Delivery**: Interactive charts embedded in `charts.html` (linked from this page).  
+
+---
+
+## Sketches (Initial Ideas)
+*(Wireframes will be added later as images or simple placeholders here)*
+
+1. **Market Share Line Chart**  
+ Title: “By 2024, light trucks dominate U.S. auto sales.”  
+ X-axis: year, Y-axis: % of sales (cars vs trucks).  
+
+2. **CO₂ vs Horsepower Dual Axis**  
+ Title: “Bigger and stronger cars slowed U.S. emissions progress.”  
+
+3. **EV Adoption by Region**  
+ Title: “U.S. lags Europe and China in EV adoption.”  
+
+4. **Fatalities per 100M VMT**  
+ Title: “U.S. road safety improved overall, but pedestrian risks remain.”  
+
+5. **Market Snapshot Cards**  
+ Registrations, VMT, annual sales pace.
+
+---
+
+## Data Dictionary
+- `share_ltrucks`: Share of light trucks in total U.S. light vehicle sales.  
+- `ev_share`: EV share of new car sales (2015–2024).  
+- `co2_gpm`: Sales-weighted CO₂ emissions, grams per mile (EPA).  
+- `hp`: Sales-weighted horsepower (EPA).  
+- `fatalities_rate`: Fatalities per 100M vehicle miles traveled.  
+- `registrations`: Total number of registered vehicles in the U.S.  
+- `vmt`: Vehicle miles traveled annually.  
+
+---
+
+## Conclusion
+- **Preference Shift**: U.S. consumers reshaped the market toward larger vehicles.  
+- **Environmental Externality**: CO₂ reductions slowed; electrification is now the main corrective force.  
+- **Safety Context**: Roads are safer overall, but pedestrians face higher risks from tall SUVs/pickups.  
+- **Market Portrait**: The U.S. auto market is defined by scale, light-truck dominance, and a lag in EV transition compared to global peers.
+
+---
+
+### Navigation
+- [Charts (interactive)](charts.html) *(to be added later)*  
+- [GitHub Repository](../)  
+
 
