@@ -81,9 +81,11 @@ Pickups, however, grew heavier and more powerful, with slower CO₂ decline. Thi
 The U.S. trails behind Europe and China in EV adoption, with under 10% market share by 2024. Despite global momentum, domestic uptake remains slow—highlighting policy gaps and consumer hesitancy.
 
 5. **Fatalities per 100M VMT**  
- Title: “U.S. road safety improved overall, but pedestrian risks remain.”  
+ Title: “U.S. road safety improved overall, but pedestrian risks remain.”
+<img width="790" height="459" alt="image" src="https://github.com/user-attachments/assets/7ff8dda2-9133-4d63-ab90-35f801d969d1" />
 
-6. **Market Snapshot Cards**  
+
+7. **Market Snapshot Cards**  
  Registrations, VMT, annual sales pace.
 
 ---
