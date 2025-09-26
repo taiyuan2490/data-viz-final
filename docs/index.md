@@ -8,7 +8,7 @@ The story is structured around four pillars:
 3. **Safety** — Trends in traffic fatalities and pedestrian risk.  
 4. **Market portrait** — Registrations, vehicle miles traveled, and sales volume.
 
-The analysis uses publicly available datasets (EPA, FRED/BEA, OWID, EEA, BTS/NHTSA, FHWA). All visualizations are reproducible with Python and Vega-Lite.
+The analysis uses publicly available datasets 
 
 ---
 
@@ -32,27 +32,30 @@ The analysis uses publicly available datasets (EPA, FRED/BEA, OWID, EEA, BTS/NHT
 ---
 
 ## Data Sources
-- **EPA Automotive Trends Report** — CO₂ emissions, horsepower, vehicle weight.  
-- **FRED / BEA** — Car vs light truck sales (seasonally adjusted annual rates).  
-- **Our World in Data (IEA)** — EV share of new sales, 2015–2024.  
-- **European Environment Agency (EEA)** — Sales-weighted CO₂ of new cars in the EU.  
-- **Bureau of Transportation Statistics / NHTSA** — Fatalities per 100M vehicle miles.  
-- **FHWA** — Vehicle registrations and total miles traveled.
+## Data Sources
 
-_All sources are open/public domain or CC BY licensed. Data is reproducible and linked in the repository’s `/data/` folder._
+- **[EPA Automotive Trends Report](https://www.epa.gov/automotive-trends/explore-automotive-trends-data)**  
+  Annual data on CO₂ emissions, horsepower, vehicle weight, and fuel economy for U.S. cars and trucks.
 
----
+- **[FRED / BEA Vehicle Sales](https://fred.stlouisfed.org/series/LTRUCKSA)** (Light trucks) and [All Light Vehicles](https://fred.stlouisfed.org/series/ALTSALES)  
+  Monthly sales (seasonally adjusted annual rates) for cars vs. light trucks in the U.S.
 
-## Methods & Media
-- **Cleaning**: Python (pandas/numpy).  
-- **Visualization**: Vega-Lite JSON specs embedded into GitHub Pages.  
+- **[Our World in Data — Electric Car Sales Share (IEA)](https://ourworldindata.org/grapher/electric-car-sales-share)**  
+  Share of new car sales that are electric, 2015–2024, across U.S., EU, China, and Japan.
 
-- **Delivery**: Interactive charts embedded in `charts.html` (linked from this page).  
+- **[European Environment Agency (EEA) — New Car CO₂ Emissions](https://www.eea.europa.eu/data-and-maps/data/co2-cars-emission-18)**  
+  Sales-weighted average CO₂ emissions of new cars sold in the EU (2000–2023).
+
+- **[Bureau of Transportation Statistics (BTS) / NHTSA Fatality Rate Data](https://www.bts.gov/content/traffic-fatalities-and-rates)**  
+  Fatalities per 100 million vehicle miles traveled, U.S. (historical series).
+
+- **[FHWA Highway Statistics — Vehicle Miles Traveled & Registrations](https://www.fhwa.dot.gov/policyinformation/statistics.cfm)**  
+  Total U.S. vehicle registrations and annual vehicle miles traveled (VMT).
+
 
 ---
 
 ## Sketches (Initial Ideas)
-*(Wireframes will be added later as images or simple placeholders here)*
 
 1. **Market Share Line Chart**  
  Title: “By 2024, light trucks dominate U.S. auto sales.”  
