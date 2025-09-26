@@ -49,18 +49,20 @@ The analysis uses publicly available datasets
 ## Sketches (Initial Ideas)
 <img width="742" height="247" alt="image" src="https://github.com/user-attachments/assets/408808c2-600e-44b7-bb6e-ce73b94e8b7c" />
 
-1. **Market Share Line Chart**  
+**Market Share Line Chart**  
+
  Title: “By 2024, light trucks dominate U.S. auto sales.”  
  X-axis: year, Y-axis: % of sales (cars vs trucks).
 <img width="778" height="502" alt="image" src="https://github.com/user-attachments/assets/577dfbd7-646a-4509-9898-ebf86e53cc10" />
 
 The graph reveals a dramatic shift in U.S. consumer behavior: light trucks surged from niche to mainstream, reflecting changing lifestyles, fuel economics, and design trends—culminating in over 80% market share by 2022.
 
-3. **CO₂ vs Horsepower**
-   <img width="442" height="442" alt="image" src="https://github.com/user-attachments/assets/db4fab1f-ef6a-4a35-aa60-37b19aea7be1" />
+**CO₂ vs Horsepower**
 
- Title: “Bigger and stronger cars slowed U.S. emissions progress.”  
-<img width="776" height="482" alt="image" src="https://github.com/user-attachments/assets/efff88bd-6de5-4b6c-8da7-e98fd8a7eb3e" />
+<img width="442" height="442" alt="image" src="https://github.com/user-attachments/assets/db4fab1f-ef6a-4a35-aa60-37b19aea7be1" />
+
+<img width="768" height="482" alt="image" src="https://github.com/user-attachments/assets/ed12832f-8983-4204-8384-67205567afd5" />
+
 
 Technology enabled vehicles to gain horsepower while lowering CO₂, but progress was uneven. Cars steadily improved efficiency, reducing emissions even as power rose. 
 
@@ -68,14 +70,14 @@ Technology enabled vehicles to gain horsepower while lowering CO₂, but progres
 
 Pickups, however, grew heavier and more powerful, with slower CO₂ decline. This divergence explains why U.S. fleetwide emissions progress lagged despite cleaner engines and better fuel economy.  
 
-4. **EV Adoption by Region**  
+ **EV Adoption by Region**  
  Title: “U.S. lags Europe and China in EV adoption.”
 
 <img width="793" height="462" alt="image" src="https://github.com/user-attachments/assets/50e8ec16-340e-455b-9e84-d6be47567c8f" />
 
 The U.S. trails behind Europe and China in EV adoption, with under 10% market share by 2024. Despite global momentum, domestic uptake remains slow—highlighting policy gaps and consumer hesitancy.
 
-5. **Fatalities per 100M VMT**  
+ **Fatalities per 100M VMT**  
  Title: “U.S. road safety improved overall, but pedestrian risks remain.”
 <img width="790" height="459" alt="image" src="https://github.com/user-attachments/assets/7ff8dda2-9133-4d63-ab90-35f801d969d1" />
 
@@ -83,10 +85,7 @@ The U.S. trails behind Europe and China in EV adoption, with under 10% market sh
 <img width="796" height="389" alt="image" src="https://github.com/user-attachments/assets/9b6507f5-a608-4a23-994d-4e289876be2e" />
 
 As light truck sales surged post-2010, U.S. road fatalities per 100M miles reversed their long decline—raising questions about vehicle design, pedestrian safety, and the unintended consequences of consumer preference shifts.
-
-7. **Market Snapshot Cards**  
- Registrations, VMT, annual sales pace.
-
+ 
 ---
 
 ---
