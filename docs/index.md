@@ -74,12 +74,17 @@ Pickups, however, grew heavier and more powerful, with slower CO₂ decline. Thi
 
 Technology bring more horsepower, cleaner. howeber, having more horsepower with a pickup generally comes with a price. 
 
+<img width="723" height="429" alt="image" src="https://github.com/user-attachments/assets/17f5deb5-124c-4437-807e-250ca8506f32" />
+
+
  **EV Adoption by Region**  
  Title: “U.S. lags Europe and China in EV adoption.”
 
 <img width="793" height="462" alt="image" src="https://github.com/user-attachments/assets/50e8ec16-340e-455b-9e84-d6be47567c8f" />
 
-The U.S. trails behind Europe and China in EV adoption, with under 10% market share by 2024. Despite global momentum, domestic uptake remains slow—highlighting policy gaps and consumer hesitancy.
+Half of new car in China are electronic, U.S. on the other hand, only have 10%. The U.S. trails behind Europe and China in EV adoption, with under 10% market share by 2024. Despite global momentum, domestic uptake remains slow—highlighting policy gaps and consumer hesitancy.
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6acbfd29-88b5-4a1f-81ca-2e891b080d9a" />
 
  **Fatalities per 100M VMT**  
  Title: “U.S. road safety improved overall, but pedestrian risks remain.”
@@ -95,17 +100,24 @@ As light truck sales surged post-2010, U.S. road fatalities per 100M miles rever
 ---
 
 ## Conclusion
-- **Preference Shift**: U.S. consumers reshaped the market toward larger vehicles.  
-- **Environmental Externality**: CO₂ reductions slowed; electrification is now the main corrective force.  
-- **Safety Context**: Roads are safer overall, but pedestrians face higher risks from tall SUVs/pickups.  
-- **Market Portrait**: The U.S. auto market is defined by scale, light-truck dominance, and a lag in EV transition compared to global peers.
-
----
-
----
-
-## Interactive Visualizations
-[Click here to see the charts](charts.html)
 
 
+Consumer Shift: Since 2000, U.S. buyers have steadily favored pickups and SUVs, with horsepower climbing far faster than in other vehicle classes.
+
+Environmental Tradeoff: While technology made engines cleaner, pickups’ relative CO₂ gap versus cars widened, slowing national emissions progress.
+
+Safety Paradox: Fatalities per mile declined overall, especially in 2000–2010, but the surge in light-truck sales coincided with stalled progress and rising pedestrian vulnerability.
+
+## Method and medium
+The final project will be allowing for both static charts and interactive visualizations. 
+
+For I will also considering more geology, like national maps for data visualization
+
+I will also think of more type of graph ecept line graph for beter visualization
+
+I’m choosing Python + GitHub Pages for now. Future extensions could include interactive dashboards (Plotly Dash or Streamlit) or immersive media if appropriate. Tableau will also be used if xx
+
+
+## AI knowledgement
+I used generative AI tools (Copilot) to brainstorm visualization ideas, refine narrative framing, and refine Python code templates for data analysis. I reviewed, edited, and validated all outputs. Final analysis and interpretation are my own, with AI treated as a supporting tool, consistent with CMU academic integrity policies.
 
