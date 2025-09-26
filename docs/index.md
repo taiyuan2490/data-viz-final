@@ -61,9 +61,14 @@ The analysis uses publicly available datasets
  X-axis: year, Y-axis: % of sales (cars vs trucks).
 <img width="778" height="502" alt="image" src="https://github.com/user-attachments/assets/577dfbd7-646a-4509-9898-ebf86e53cc10" />
 
+The graph reveals a dramatic shift in U.S. consumer behavior: light trucks surged from niche to mainstream, reflecting changing lifestyles, fuel economics, and design trends—culminating in over 80% market share by 2022.
 
-3. **CO₂ vs Horsepower Dual Axis**  
+3. **CO₂ vs Horsepower**  
  Title: “Bigger and stronger cars slowed U.S. emissions progress.”  
+<img width="776" height="482" alt="image" src="https://github.com/user-attachments/assets/efff88bd-6de5-4b6c-8da7-e98fd8a7eb3e" />
+Technology enabled vehicles to gain horsepower while lowering CO₂, but progress was uneven. Cars steadily improved efficiency, reducing emissions even as power rose. 
+<img width="796" height="466" alt="image" src="https://github.com/user-attachments/assets/c5acd4af-d28a-4cb1-9f9f-fc9f0cf42f5d" />
+Pickups, however, grew heavier and more powerful, with slower CO₂ decline. This divergence explains why U.S. fleetwide emissions progress lagged despite cleaner engines and better fuel economy.
 
 4. **EV Adoption by Region**  
  Title: “U.S. lags Europe and China in EV adoption.”  
