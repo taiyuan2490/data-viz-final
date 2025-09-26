@@ -6,7 +6,6 @@ The story is structured around four pillars:
 1. **Preferences** — From sedans to SUVs and pickups.  
 2. **Environment** — How efficiency and electrification shaped emissions.  
 3. **Safety** — Trends in traffic fatalities and pedestrian risk.  
-4. **Market portrait** — Registrations, vehicle miles traveled, and sales volume.
 
 The analysis uses publicly available datasets 
 
@@ -23,12 +22,6 @@ The analysis uses publicly available datasets
 
 - **Safety Impact**  
   Fatalities per 100M vehicle miles traveled declined, but risks for pedestrians increased due to taller vehicle fronts.  
-
-- **Market Portrait**  
-  - Registrations: total U.S. vehicle fleet expanded steadily.  
-  - Vehicle miles traveled: rebounded after COVID-19 dip.  
-  - Sales: stable around 15–17M units/year, with strong light-truck dominance.  
-
 ---
 
 ## Data Sources
@@ -55,6 +48,7 @@ The analysis uses publicly available datasets
 ---
 
 ## Sketches (Initial Ideas)
+<img width="742" height="247" alt="image" src="https://github.com/user-attachments/assets/408808c2-600e-44b7-bb6e-ce73b94e8b7c" />
 
 1. **Market Share Line Chart**  
  Title: “By 2024, light trucks dominate U.S. auto sales.”  
