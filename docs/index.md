@@ -85,6 +85,10 @@ The U.S. trails behind Europe and China in EV adoption, with under 10% market sh
 <img width="790" height="459" alt="image" src="https://github.com/user-attachments/assets/7ff8dda2-9133-4d63-ab90-35f801d969d1" />
 
 
+<img width="796" height="389" alt="image" src="https://github.com/user-attachments/assets/9b6507f5-a608-4a23-994d-4e289876be2e" />
+
+As light truck sales surged post-2010, U.S. road fatalities per 100M miles reversed their long decline—raising questions about vehicle design, pedestrian safety, and the unintended consequences of consumer preference shifts.
+
 7. **Market Snapshot Cards**  
  Registrations, VMT, annual sales pace.
 
