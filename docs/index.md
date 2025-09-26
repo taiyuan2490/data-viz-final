@@ -57,7 +57,9 @@ The analysis uses publicly available datasets
 
 The graph reveals a dramatic shift in U.S. consumer behavior: light trucks surged from niche to mainstream, reflecting changing lifestyles, fuel economics, and design trends—culminating in over 80% market share by 2022.
 
-3. **CO₂ vs Horsepower**  
+3. **CO₂ vs Horsepower**
+   <img width="442" height="442" alt="image" src="https://github.com/user-attachments/assets/db4fab1f-ef6a-4a35-aa60-37b19aea7be1" />
+
  Title: “Bigger and stronger cars slowed U.S. emissions progress.”  
 <img width="776" height="482" alt="image" src="https://github.com/user-attachments/assets/efff88bd-6de5-4b6c-8da7-e98fd8a7eb3e" />
 
