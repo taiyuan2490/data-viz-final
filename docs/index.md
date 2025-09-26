@@ -66,12 +66,19 @@ The graph reveals a dramatic shift in U.S. consumer behavior: light trucks surge
 3. **CO₂ vs Horsepower**  
  Title: “Bigger and stronger cars slowed U.S. emissions progress.”  
 <img width="776" height="482" alt="image" src="https://github.com/user-attachments/assets/efff88bd-6de5-4b6c-8da7-e98fd8a7eb3e" />
+
 Technology enabled vehicles to gain horsepower while lowering CO₂, but progress was uneven. Cars steadily improved efficiency, reducing emissions even as power rose. 
+
 <img width="796" height="466" alt="image" src="https://github.com/user-attachments/assets/c5acd4af-d28a-4cb1-9f9f-fc9f0cf42f5d" />
-Pickups, however, grew heavier and more powerful, with slower CO₂ decline. This divergence explains why U.S. fleetwide emissions progress lagged despite cleaner engines and better fuel economy.
+
+Pickups, however, grew heavier and more powerful, with slower CO₂ decline. This divergence explains why U.S. fleetwide emissions progress lagged despite cleaner engines and better fuel economy.  
 
 4. **EV Adoption by Region**  
- Title: “U.S. lags Europe and China in EV adoption.”  
+ Title: “U.S. lags Europe and China in EV adoption.”
+
+<img width="793" height="462" alt="image" src="https://github.com/user-attachments/assets/50e8ec16-340e-455b-9e84-d6be47567c8f" />
+
+The U.S. trails behind Europe and China in EV adoption, with under 10% market share by 2024. Despite global momentum, domestic uptake remains slow—highlighting policy gaps and consumer hesitancy.
 
 5. **Fatalities per 100M VMT**  
  Title: “U.S. road safety improved overall, but pedestrian risks remain.”  
