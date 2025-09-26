@@ -70,6 +70,10 @@ Technology enabled vehicles to gain horsepower while lowering CO₂, but progres
 
 Pickups, however, grew heavier and more powerful, with slower CO₂ decline. This divergence explains why U.S. fleetwide emissions progress lagged despite cleaner engines and better fuel economy.  
 
+<img width="832" height="395" alt="image" src="https://github.com/user-attachments/assets/a754e499-6d4f-4dc5-9aed-dbbccea34ea4" />
+
+Technology bring more horsepower, cleaner. howeber, having more horsepower with a pickup generally comes with a price. 
+
  **EV Adoption by Region**  
  Title: “U.S. lags Europe and China in EV adoption.”
 
