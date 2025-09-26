@@ -94,8 +94,10 @@ The analysis uses publicly available datasets
 
 ---
 
-### Navigation
-- [Charts (interactive)](charts.html) *(to be added later)*  
-- [GitHub Repository](../)  
+---
+
+## Interactive Visualizations
+[Click here to see the charts](charts.html)
+
 
 
