@@ -109,13 +109,12 @@ Environmental Tradeoff: While technology made engines cleaner, pickups’ relati
 Safety Paradox: Fatalities per mile declined overall, especially in 2000–2010, but the surge in light-truck sales coincided with stalled progress and rising pedestrian vulnerability.
 
 ## Method and medium
-The final project will be allowing for both static charts and interactive visualizations. 
 
-For I will also considering more geology, like national maps for data visualization
+The final project will combine static charts and interactive visualizations to communicate the evolution of the U.S. auto market. Beyond line charts, I will incorporate diverse visualization types (e.g., heatmaps, bubble charts, geographic maps, and ridgeline plots) to better capture patterns and contrasts.
 
-I will also think of more type of graph ecept line graph for beter visualization
+I plan to use Python (pandas, matplotlib, seaborn, Plotly) for analysis and visualization, with GitHub Pages as the main platform for publishing. Where relevant, I will also integrate geospatial visualizations to highlight national and regional perspectives.
 
-I’m choosing Python + GitHub Pages for now. Future extensions could include interactive dashboards (Plotly Dash or Streamlit) or immersive media if appropriate. Tableau will also be used if xx
+Future extensions may include building an interactive dashboard with Plotly Dash or Streamlit, or experimenting with immersive/interactive media for more engaging storytelling. If needed, I may also use Tableau to supplement complex visualizations and ensure accessibility for broader audiences.
 
 
 ## AI knowledgement
