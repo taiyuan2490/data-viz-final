@@ -20,40 +20,88 @@ High-fidelity draft visuals:
 
 Each with 1–2 line takeaway.
 
-## 3) User Research Protocol
-**Audience**: General readers, policy/environment-focused, not auto experts.  
-**Recruit**: 3 diverse participants (student, worker, car owner).  
-**Script (5 Qs)**:
-1. Is the story clear at first glance?  
-2. Which chart is most useful?  
-3. Which chart is hardest to understand?  
-4. Are annotations/labels sufficient?  
-5. What conclusion do you take away?  
+## User Research Protocol & Findings
 
-**Success criteria**: At least 2 can restate story correctly; clear feedback on best/worst chart; ≥3 actionable suggestions.
+### Protocol
 
-## 4) User Interviews — Findings
-**P1 (student, 20s)**  
-- Likes EV chart, finds gap chart confusing.  
-- Quote: “I get pickups are dirtier, but show ‘how much’.”  
+**Objective**  
+Test whether the current storyboard and draft data visualizations clearly communicate the key story:  
+- U.S. consumers shifted to larger vehicles (pickups/SUVs).  
+- This slowed CO₂ reductions and increased pedestrian risks.  
+- EV adoption in the U.S. lags behind global peers.  
 
-**P2 (office worker, 30s)**  
-- Safety split very intuitive.  
-- Quote: “Big improvement 2000–2010, then stuck.”  
+**Target Audience**  
+- General readers (20–40 years old), interested in environment, transport, or policy.  
+- Not expected to have deep technical knowledge of vehicles or statistics.  
 
-**P3 (car owner, 30s)**  
-- Dual-axis clear, but wants source labels.  
-- Quote: “Need to know if CO₂ is real-world or lab test.”  
+**Recruitment Strategy**  
+- Minimum of 3 participants with varied perspectives (student, office worker, car owner).  
+- No personal identifiers recorded.  
 
-**Synthesis**  
-- Agreement: EV & dual-axis easy; need more legends/units.  
-- Conflict: Abstract gap chart — love/hate split.  
+**Interview Script (5 Questions)**  
+1. What is the main story you take away?  
+2. Which chart is the clearest or most persuasive to you? Why?  
+3. Which chart is confusing or hard to interpret? Why?  
+4. Are the annotations, labels, and legends sufficient?  
+5. After reading through, what is your overall impression of the U.S. auto market story?  
 
-## 5) Planned Changes
-- Add sources/units to all figures.  
-- Add clear legend for abstract gap chart.  
-- Restructure flow: Market → Tech/CO₂ → Safety → EV → Conclusion.  
-- Add “reading guide” at start.
+**Evaluation Criteria**  
+- At least 2 of 3 participants restate the main narrative correctly.  
+- Identify best-performing and weakest chart(s).  
+- Collect ≥3 actionable suggestions for design improvement.  
+- Capture at least one direct quote from each participant.  
+
+---
+
+### Interview Findings
+
+**Participant 1 (Student, 20s)**  
+- Main takeaway: “Pickups are getting stronger but dirtier, EVs aren’t catching up.”  
+- Most useful: EV adoption chart — global comparison was intuitive.  
+- Confusing: Gap chart (pickup vs. other cars) — shading was unclear.  
+- Quote: “I get that pickups are worse, but can you show *how much worse* in numbers?”  
+
+**Participant 2 (Office worker, 30s)**  
+- Main takeaway: “Roads got safer until 2010, then progress slowed — maybe linked to trucks?”  
+- Most useful: Fatalities chart with two shaded eras.  
+- Confusing: Dual-axis CO₂ vs. HP chart — axes were unclear.  
+- Quote: “The split between 2000–2010 and 2010–now is super clear — that really works.”  
+
+**Participant 3 (Car owner, 30s)**  
+- Main takeaway: “Horsepower keeps rising while CO₂ is stuck — policy isn’t working.”  
+- Most useful: Dual-axis CO₂ vs. HP chart (after reading labels).  
+- Confusing: Abstract gap visualization — color scale wasn’t intuitive.  
+- Quote: “Need to know if these are *real-world* CO₂ values or lab tests.”  
+
+---
+
+### Synthesis of Insights
+
+**Consistent Feedback**  
+- EV adoption and fatalities charts were easiest to understand.  
+- Gap chart was divisive: visually striking but sometimes confusing.  
+- Need for clearer labeling: sources, units, legends.  
+
+**Conflicting Feedback**  
+- Dual-axis CO₂ vs. HP chart: one participant found it powerful, another found it confusing.  
+
+**Key Insights**  
+- Simpler charts worked best.  
+- Abstract visualizations require very clear legends.  
+- Annotations and context build credibility.  
+- **Line plots sometimes feel too “busy.” Participants suggested a bar chart could better highlight year-to-year differences.**  
+
+---
+
+### Planned Changes
+
+- Add **clear source labels and units** (e.g., “Real-world CO₂ emissions (g/mi)”).  
+- Revise gap chart legend → darker shading = bigger gap, add numeric annotation.  
+- Simplify dual-axis chart: left axis = CO₂, right axis = HP with bold labels.  
+- **Change one line plot (pickup vs. others CO₂ gap) into a grouped bar chart** to make annual differences clearer.  
+- Reorder story flow: **Market → Tech/CO₂ → Safety → EV → Conclusion**.  
+- Add “reading guide” (2–3 sentences) at the start of project site.  
+
 
 ## 6) Optional: Moodboard & Personas
 Moodboard: FT/OWID style — muted colors, sharp annotations.  
