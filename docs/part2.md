@@ -18,6 +18,16 @@ High-fidelity draft visuals:
 - ![EV adoption](images/fig_ev_regions.png)
 - ![Fatalities & Trucks](images/fig_fatalities_truck.png)
 
+- <img width="1073" height="615" alt="image" src="https://github.com/user-attachments/assets/afcd9f87-fb69-47e0-9760-4afbc342eb59" />
+
+<img width="1066" height="440" alt="image" src="https://github.com/user-attachments/assets/08eaaf31-be0d-4dec-929c-8d929131937f" />
+
+<img width="796" height="664" alt="image" src="https://github.com/user-attachments/assets/7b497ef7-83df-4734-afc3-e3bc23b63525" />
+
+<img width="859" height="655" alt="image" src="https://github.com/user-attachments/assets/e0d41067-dee9-4cbe-8b91-9b679522a0c0" />
+
+
+
 Each with 1–2 line takeaway.
 
 ## User Research Protocol & Findings
