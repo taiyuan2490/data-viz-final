@@ -10,6 +10,28 @@ Outline:
 4. Global comparison: EV adoption (U.S./EU/China)
 5. Conclusion & policy takeaways
 
+
+## Data Sources
+
+- **[EPA Automotive Trends Report](https://www.epa.gov/automotive-trends/explore-automotive-trends-data)**  
+  Annual data on CO₂ emissions, horsepower, vehicle weight, and fuel economy for U.S. cars and trucks.
+
+- **[FRED / BEA Vehicle Sales](https://fred.stlouisfed.org/series/LTRUCKSA)** (Light trucks) and [All Light Vehicles](https://fred.stlouisfed.org/series/ALTSALES)  
+  Monthly sales (seasonally adjusted annual rates) for cars vs. light trucks in the U.S.
+
+- **[Our World in Data — Electric Car Sales Share (IEA)](https://ourworldindata.org/grapher/electric-car-sales-share)**  
+  Share of new car sales that are electric, 2015–2024, across U.S., EU, China, and Japan.
+
+- **[European Environment Agency (EEA) — New Car CO₂ Emissions](https://www.eea.europa.eu/data-and-maps/data/co2-cars-emission-18)**  
+  Sales-weighted average CO₂ emissions of new cars sold in the EU (2000–2023).
+
+- **[Bureau of Transportation Statistics (BTS) / NHTSA Fatality Rate Data](https://www.bts.gov/content/traffic-fatalities-and-rates)**  
+  Fatalities per 100 million vehicle miles traveled, U.S. (historical series).
+
+- **[FHWA Highway Statistics — Vehicle Miles Traveled & Registrations](https://www.fhwa.dot.gov/policyinformation/statistics.cfm)**  
+  Total U.S. vehicle registrations and annual vehicle miles traveled (VMT).
+
+
 ## 2) Storyboard
 
 ## General trend
@@ -45,93 +67,118 @@ After 2010, light truck share surged while fatalities per 100M miles reversed th
 
 <img width="859" height="655" alt="image" src="https://github.com/user-attachments/assets/e0d41067-dee9-4cbe-8b91-9b679522a0c0" />
 
-
-
-Each with 1–2 line takeaway.
+In 2014, the United States led global EV adoption with nearly half of the market, while China trailed. By 2024, China surged to over 60%, overtaking both the U.S. and EU. This dramatic shift underscores China’s dominance in scaling EV adoption and the relative decline of U.S. leadership.
 
 ## User Research Protocol & Findings
 
 ### Protocol
 
 **Objective**  
-Test whether the current storyboard and draft data visualizations clearly communicate the key story:  
-- U.S. consumers shifted to larger vehicles (pickups/SUVs).  
-- This slowed CO₂ reductions and increased pedestrian risks.  
-- EV adoption in the U.S. lags behind global peers.  
+The purpose of this user research was to evaluate whether the storyboard and draft data visualizations clearly communicated the intended story:  
+1. U.S. consumers have increasingly shifted toward larger vehicles (pickups and SUVs).  
+2. This shift has slowed progress on CO₂ reduction and increased pedestrian risks.  
+3. The U.S. is lagging behind peers such as China and the EU in adopting electric vehicles (EVs).  
+
+The goal was to test clarity, accessibility, and persuasiveness of the visuals for a general audience.
 
 **Target Audience**  
-- General readers (20–40 years old), interested in environment, transport, or policy.  
-- Not expected to have deep technical knowledge of vehicles or statistics.  
+- General readers aged 20–40 with interest in environment, transportation, or public policy.  
+- No requirement for technical knowledge of vehicles, emissions, or statistics.  
 
 **Recruitment Strategy**  
-- Minimum of 3 participants with varied perspectives (student, office worker, car owner).  
-- No personal identifiers recorded.  
+- At least three participants representing diverse backgrounds (student, office worker, car owner).  
+- No personally identifiable information was collected. Participants were described in general terms.  
 
-**Interview Script (5 Questions)**  
-1. What is the main story you take away?  
+**Interview Script**  
+1. What is the main story you take away from the draft?  
 2. Which chart is the clearest or most persuasive to you? Why?  
-3. Which chart is confusing or hard to interpret? Why?  
-4. Are the annotations, labels, and legends sufficient?  
-5. After reading through, what is your overall impression of the U.S. auto market story?  
+3. Which chart is the most confusing or hardest to interpret? Why?  
+4. Do the annotations, labels, and legends provide enough clarity?  
+5. After reviewing the draft, what is your overall impression of the U.S. auto market story?  
 
 **Evaluation Criteria**  
-- At least 2 of 3 participants restate the main narrative correctly.  
-- Identify best-performing and weakest chart(s).  
-- Collect ≥3 actionable suggestions for design improvement.  
-- Capture at least one direct quote from each participant.  
+- At least 2 of 3 participants restate the main narrative accurately.  
+- Identify strongest and weakest charts.  
+- Gather at least 3 actionable suggestions for improvements.  
+- Capture at least one direct participant quote per interview.  
 
 ---
 
 ### Interview Findings
-
 **Participant 1 (Student, 20s)**  
-- Main takeaway: “Pickups are getting stronger but dirtier, EVs aren’t catching up.”  
-- Most useful: EV adoption chart — global comparison was intuitive.  
-- Confusing: Gap chart (pickup vs. other cars) — shading was unclear.  
-- Quote: “I get that pickups are worse, but can you show *how much worse* in numbers?”  
+- **Main takeaway**: “Pickups are getting stronger but dirtier, and EVs aren’t catching up.” The participant immediately understood the narrative of vehicle size, emissions stagnation, and EV lag, which aligned with the project’s core message.  
+- **Most useful**: EV adoption chart — the global comparison (U.S. vs. EU vs. China) was very intuitive. They mentioned that seeing the U.S. line so much lower than Europe and China “made the lag really obvious.”  
+- **Confusing**: CO₂ vs. HP gap shading chart — meaning of color scale unclear. The participant struggled to interpret what darker vs. lighter meant without a numeric anchor. They suggested: “Maybe put actual numbers on top of the bars so it’s not just color.”  
+- **Additional notes**: Felt some line charts were “busy” and recommended switching to bar charts for clarity, especially when comparing two groups in a single year. This directly informed the decision to turn the CO₂ line plot into a grouped bar chart.  
+- **Quote**: “I get that pickups are worse, but can you show *how much worse* more directly?”  
 
-**Participant 2 (Office worker, 30s)**  
-- Main takeaway: “Roads got safer until 2010, then progress slowed — maybe linked to trucks?”  
-- Most useful: Fatalities chart with two shaded eras.  
-- Confusing: Dual-axis CO₂ vs. HP chart — axes were unclear.  
-- Quote: “The split between 2000–2010 and 2010–now is super clear — that really works.”  
+---
 
-**Participant 3 (Car owner, 30s)**  
-- Main takeaway: “Horsepower keeps rising while CO₂ is stuck — policy isn’t working.”  
-- Most useful: Dual-axis CO₂ vs. HP chart (after reading labels).  
-- Confusing: Abstract gap visualization — color scale wasn’t intuitive.  
-- Quote: “Need to know if these are *real-world* CO₂ values or lab tests.”  
+**Participant 2 (Office Worker, 30s)**  
+- **Main takeaway**: “Road safety improved until 2010, then slowed down, maybe due to more trucks.” They tied the trend to vehicle size and appreciated the narrative flow from market changes to safety consequences.  
+- **Most useful**: Fatalities chart — especially the split shading between 2000–2010 and 2010–now. They said this visual “told the story in one glance” and called it the clearest evidence in the draft.  
+- **Confusing**: Dual-axis chart of CO₂ and HP — axes and units were not immediately clear. They admitted that once the labels were explained, it was persuasive, but initially it looked “too technical.”  
+- **Additional notes**: Asked whether CO₂ was “grams per mile” or “per gallon,” pointing out the importance of explicit units. Also suggested clearer captions to guide readers: “Tell me what to look at.”  
+- **Quote**: “The split between 2000–2010 and 2010–now is super clear — that really works.”  
+
+---
+
+**Participant 3 (Car Owner, 30s)**  
+- **Main takeaway**: “Horsepower keeps going up while CO₂ barely drops — policy isn’t working.” They focused on the divergence between performance and emissions, highlighting policy implications.  
+- **Most useful**: Dual-axis CO₂ vs. HP chart (after clarification). They said the chart was powerful once axes were labeled boldly: “You see the horsepower going up like crazy, and CO₂ barely moving.”  
+- **Confusing**: Gap chart with abstract shading — the use of gradients without numeric labels left them uncertain. They suggested simplifying the design or switching to a bar-style representation that shows the widening gap explicitly.  
+- **Additional notes**: Expressed skepticism about data credibility, asking if CO₂ values were “real-world” or “lab test” values. This pointed to the need for stronger source notes and context to build trust.  
+- **Quote**: “Need to know if these are *real-world* CO₂ numbers or just lab tests.”  
+
 
 ---
 
 ### Synthesis of Insights
 
 **Consistent Feedback**  
-- EV adoption and fatalities charts were easiest to understand.  
-- Gap chart was divisive: visually striking but sometimes confusing.  
-- Need for clearer labeling: sources, units, legends.  
+- EV adoption chart and fatalities chart were easiest to understand.  
+- Gap chart was visually striking but confusing without clearer legends and labels.  
+- Strong demand for **explicit units, labels, and source citations** to increase trust.  
 
 **Conflicting Feedback**  
-- Dual-axis CO₂ vs. HP chart: one participant found it powerful, another found it confusing.  
+- Dual-axis CO₂ vs. HP chart was divisive: some participants found it powerful, others found it confusing.  
 
 **Key Insights**  
-- Simpler charts worked best.  
-- Abstract visualizations require very clear legends.  
-- Annotations and context build credibility.  
-- **Line plots sometimes feel too “busy.” Participants suggested a bar chart could better highlight year-to-year differences.**  
+- Simpler charts (line and bar) communicated better.  
+- Abstract charts (gap visualization) required much clearer scaffolding.  
+- Participants suggested that in some cases, **bar charts could better highlight differences year-to-year** than line charts.  
 
 ---
 
-### Planned Changes
+### Planned Changes Based on Feedback
 
-- Add **clear source labels and units** (e.g., “Real-world CO₂ emissions (g/mi)”).  
-- Revise gap chart legend → darker shading = bigger gap, add numeric annotation.  
-- Simplify dual-axis chart: left axis = CO₂, right axis = HP with bold labels.  
-- **Change one line plot (pickup vs. others CO₂ gap) into a grouped bar chart** to make annual differences clearer.  
-- Reorder story flow: **Market → Tech/CO₂ → Safety → EV → Conclusion**.  
-- Add “reading guide” (2–3 sentences) at the start of project site.  
+- **Clarity and Labeling**  
+  - Added explicit unit labels (e.g., “Real-world CO₂ emissions (g/mi)”).  
+  - Bold axis labels and clearer legends.  
+  - Included sources directly beneath each chart.  
+
+- **Gap Visualization**  
+  - Replaced detailed shaded gap chart with a **three-step bar gradient (2000, 2010, 2020)** showing how the gap widened.  
+  - Used a smoother color transition (light red → dark red) with annotation: “Darker = larger gap.”  
+
+- **Dual-Axis Chart**  
+  - Retained chart but clarified axes: left axis = CO₂, right axis = HP.  
+  - Added annotation lines to highlight the divergence trend.  
+
+- **Simplification of Line Plots**  
+  - Converted the pickup vs. others CO₂ line plot into a **grouped bar chart** for annual differences.  
+  - Reduced visual “busyness” by highlighting key years.  
+
+- **Narrative Flow**  
+  - Reordered story to: **Market trends → CO₂ and horsepower tradeoffs → Pedestrian safety → EV adoption → Conclusion.**  
+  - Added a short **reading guide (2–3 sentences)** at the start to orient readers.  
+
+---
+
+### Conclusion
+
+The research confirmed that the **main narrative is communicated successfully**: pickups and SUVs are larger and more powerful but hinder CO₂ progress, and U.S. EV adoption lags behind peers. At the same time, the testing highlighted **weaknesses in clarity**: legends, units, and abstract charts need simplification.  
+
+Planned revisions — including **bar chart substitutions, simplified gap visualization, stronger labeling, and narrative reordering** — were directly informed by user feedback. The next step (Part III) will focus on polishing design, adding annotations, and testing whether the updated visuals reduce confusion while strengthening impact.  
 
 
-## 6) Optional: Moodboard & Personas
-Moodboard: FT/OWID style — muted colors, sharp annotations.  
-Persona: Alex (30, policy-focused), wants the main tension in 3 minutes.
