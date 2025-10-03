@@ -11,17 +11,25 @@ Outline:
 5. Conclusion & policy takeaways
 
 ## 2) Storyboard
-High-fidelity draft visuals:
-- ![Truck share](images/fig_truck_share.png)
-- ![CO₂ vs HP](images/fig_co2_hp.png)
-- ![Pickup vs Other Gap](images/fig_gap_abstract.png)
-- ![EV adoption](images/fig_ev_regions.png)
-- ![Fatalities & Trucks](images/fig_fatalities_truck.png)
 
-- <img width="1073" height="615" alt="image" src="https://github.com/user-attachments/assets/afcd9f87-fb69-47e0-9760-4afbc342eb59" />
+<img width="742" height="247" alt="image" src="https://github.com/user-attachments/assets/8330736f-6a33-4c8a-a0e4-ed663cd3171f" />
+<img width="778" height="502" alt="image" src="https://github.com/user-attachments/assets/9861460e-1d22-404e-9f2e-2ca7b0398063" />
 
-<img width="1066" height="440" alt="image" src="https://github.com/user-attachments/assets/08eaaf31-be0d-4dec-929c-8d929131937f" />
+From 1975 to 2024, light trucks surged from 20% to over 80% of U.S. auto sales. This dramatic shift reflects evolving consumer lifestyles, fuel economics, and design preferences—marking a decisive move away from sedans toward larger, more powerful vehicles.
 
+Impact to CO2 emission:
+<img width="1584" height="944" alt="image" src="https://github.com/user-attachments/assets/280c0e4a-78bf-4a90-a7ec-fa395a93034b" />
+
+From 1975 to 2020, vehicle horsepower doubled while CO₂ emissions halved. This chart highlights how engineering innovations enabled cleaner, more powerful cars. 
+
+<img width="1073" height="615" alt="image" src="https://github.com/user-attachments/assets/0d085fae-fdc5-48c7-aa56-11c27b9f4262" />
+
+Yet the gains weren’t uniform—pickups lagged in emissions progress. The graph underscores the complex tradeoff between performance and sustainability in U.S. automotive evolution.
+
+Impact 
+
+
+EV adoption:
 <img width="796" height="664" alt="image" src="https://github.com/user-attachments/assets/7b497ef7-83df-4734-afc3-e3bc23b63525" />
 
 <img width="859" height="655" alt="image" src="https://github.com/user-attachments/assets/e0d41067-dee9-4cbe-8b91-9b679522a0c0" />
