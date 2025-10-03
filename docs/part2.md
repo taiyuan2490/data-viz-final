@@ -34,6 +34,9 @@ Outline:
 
 ## 2) Storyboard
 
+## See shorthand link https://preview.shorthand.com/UNo9o2y1QLRCBxsL
+Below are just draft
+
 ## General trend
 <img width="742" height="247" alt="image" src="https://github.com/user-attachments/assets/8330736f-6a33-4c8a-a0e4-ed663cd3171f" />
 <img width="778" height="502" alt="image" src="https://github.com/user-attachments/assets/9861460e-1d22-404e-9f2e-2ca7b0398063" />
