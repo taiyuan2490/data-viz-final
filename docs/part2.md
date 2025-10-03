@@ -43,7 +43,7 @@ From 1975 to 2024, light trucks surged from 20% to over 80% of U.S. auto sales. 
 ## Impact to CO2 emission:
 <img width="1584" height="944" alt="image" src="https://github.com/user-attachments/assets/280c0e4a-78bf-4a90-a7ec-fa395a93034b" />
 
-From 1975 to 2020, vehicle horsepower doubled while CO₂ emissions halved. This chart highlights how engineering innovations enabled cleaner, more powerful cars. 
+From 1975 to 2020, average vehicle horsepower doubled while CO₂ emissions halved. This chart highlights how engineering innovations enabled cleaner, more powerful cars. 
 
 <img width="1073" height="615" alt="image" src="https://github.com/user-attachments/assets/0d085fae-fdc5-48c7-aa56-11c27b9f4262" />
 
