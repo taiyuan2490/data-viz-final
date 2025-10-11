@@ -120,3 +120,8 @@ Future extensions may include building an interactive dashboard with Plotly Dash
 ## AI knowledgement
 I used generative AI tools (Copilot) to brainstorm visualization ideas, refine narrative framing, and refine Python code templates for data analysis. I reviewed, edited, and validated all outputs. Final analysis and interpretation are my own, with AI treated as a supporting tool, consistent with CMU academic integrity policies.
 
+## Sections Included
+- [Part I – Project Pitch]：https://taiyuan2490.github.io/data-viz-final
+- [Part II – Narrative Development]： https://taiyuan2490.github.io/data-viz-final/part2
+- [Part III – Final Reflection]： https://taiyuan2490.github.io/data-viz-final/part3
+
