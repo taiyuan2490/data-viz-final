@@ -19,6 +19,10 @@ link to partII: https://taiyuan2490.github.io/data-viz-final/part2\
 
 
 ## Reference
+### Picture 
+Image: “U.S. Car Market” by Xetai Hanoi, 2024, via xetaihanoi.edu.vn.
+Link: https://xetaihanoi.edu.vn/wp-content/uploads/2024/07/thi-truong-xe-hoi-my-66a79f.webp
+
 ### Data Sources
 
 - **[EPA Automotive Trends Report](https://www.epa.gov/automotive-trends/explore-automotive-trends-data)**  
