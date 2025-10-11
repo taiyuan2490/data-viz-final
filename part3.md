@@ -14,8 +14,10 @@ I have also add Call-for-action, reference, and AI acknowledgement to my final p
 
 ## Link
 Link to shorthand： https://preview.shorthand.com/UNo9o2y1QLRCBxsL
+
 Link to partI: https://taiyuan2490.github.io/data-viz-final/
-link to partII: https://taiyuan2490.github.io/data-viz-final/part2\
+
+Link to partII: https://taiyuan2490.github.io/data-viz-final/part2
 
 
 ## Reference
