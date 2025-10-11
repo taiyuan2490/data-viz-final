@@ -11,6 +11,11 @@ I also found during the interview that the content I have seems bit too much for
 
 I have also add Call-for-action, reference, and AI acknowledgement to my final presentation.
 
+## Sections Included
+- [Part I – Project Pitch]：https://taiyuan2490.github.io/data-viz-final
+- [Part II – Narrative Development]： https://taiyuan2490.github.io/data-viz-final/part2
+- [Part III – Final Reflection]： https://taiyuan2490.github.io/data-viz-final/part3
+
 
 ## Link
 Link to shorthand： https://preview.shorthand.com/UNo9o2y1QLRCBxsL
