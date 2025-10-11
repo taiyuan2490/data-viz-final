@@ -184,4 +184,7 @@ The research confirmed that the **main narrative is communicated successfully**:
 
 Planned revisions — including **bar chart substitutions, simplified gap visualization, stronger labeling, and narrative reordering** — were directly informed by user feedback. The next step (Part III) will focus on polishing design, adding annotations, and testing whether the updated visuals reduce confusion while strengthening impact.  
 
-
+## Sections Included
+- [Part I – Project Pitch]：https://taiyuan2490.github.io/data-viz-final
+- [Part II – Narrative Development]： https://taiyuan2490.github.io/data-viz-final/part2
+- [Part III – Final Reflection]： https://taiyuan2490.github.io/data-viz-final/part3
